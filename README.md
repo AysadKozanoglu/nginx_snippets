@@ -1,5 +1,7 @@
 # Nginx Configuration Snippets
 
+for third party modules follow https://github.com/agile6v/awesome-nginx
+
 ## Table of Contents
 - [The Nginx Command](#the-nginx-command)
 - [Rewrite and Redirection](#rewrite-and-redirection)
